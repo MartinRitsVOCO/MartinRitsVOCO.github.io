@@ -1,8 +1,10 @@
-module.exports = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   output: 'export',
-  basePath: '',
-  assetPrefix: '',
+  basePath: process.env.NODE_ENV === 'production' ? '/MartinRitsVOCOhub.io' : '',
   images: {
     unoptimized: true
   }
 }
+
+module.exports = nextConfig
