@@ -11,6 +11,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      textOrientation: {
+        upright: 'upright',
+      },
+      writingMode: {
+        vertical: 'vertical-lr'
+      }
     },
   },
   plugins: [],
