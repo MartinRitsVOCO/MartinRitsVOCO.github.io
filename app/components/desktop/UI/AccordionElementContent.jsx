@@ -13,7 +13,7 @@ const AccordionElementContent = ({ index }) => {
         let newElement;
         switch (keys[0]) {
             case "header2":
-                newElement = <h2 className="mt-4 text-xl text-center font-bold">{element.header2}</h2>;
+                newElement = <h2 className="mt-8 text-xl text-center font-bold">{element.header2}</h2>;
                 break;
             case "header3":
                 newElement = <h3 className="mt-4 text-l text-center font-bold">{element.header3}</h3>;
@@ -43,7 +43,7 @@ const AccordionElementContent = ({ index }) => {
     }
 
     return (
-        <div className="w-[40rem]">
+        <div className="w-[40rem] overflow-y-auto">
             {contentElements}
         </div>
     )

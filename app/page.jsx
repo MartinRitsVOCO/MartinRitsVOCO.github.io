@@ -9,7 +9,7 @@ const HomePage = () => {
   const [isDesktop, setIsDesktop] = useState(null);
   
   const handleWindowResize = () => {
-    setIsDesktop(window.innerWidth >= 768);
+    setIsDesktop(window.innerWidth >= 1040);
   }
 
   useEffect(() => {
