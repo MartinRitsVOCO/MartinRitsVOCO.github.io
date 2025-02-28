@@ -22,7 +22,7 @@ const AccordionElementContent = ({ index }) => {
                 newElement = <p className="mt-2 px-12">{element.paragraph}</p>;
                 break;
             case "image":
-                newElement = <img className="mt-8 mx-auto w-2/3 border-double border-gray-500 border-4" src={element.image} alt={element.alt} />;
+                newElement = <img className="mt-4 mx-auto w-2/3 border-double border-gray-500 border-4" src={element.image} alt={element.alt} />;
                 break;
             default:
                 console.error("Invalid content element type", element);
@@ -43,7 +43,7 @@ const AccordionElementContent = ({ index }) => {
     }
 
     return (
-        <div className="w-[40rem] overflow-y-auto">
+        <div className="w-[40rem] pb-8 overflow-y-auto">
             {contentElements}
         </div>
     )
