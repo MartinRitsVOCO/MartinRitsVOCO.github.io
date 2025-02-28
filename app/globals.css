@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --background: azure;
+  --background: #f0ffff;
   --foreground: #171717;
 }
 

@@ -140,7 +140,7 @@
         "header2": "My Portfolio"
       },
       {
-        "paragraph": "This is the website you're on right now! The desktop view is inspired by the fact that a lot of websites ignore the horizontal offered by modern monitors and a desire to integrate navigation with the content of the site. The site is written with React.js and Tailwind. And uses Next.js to build the site for deployment on GitHub Pages via Actions. The actual content of the site is read from a JSON file and handled by a React Context component. The original design was created in Figma."
+        "paragraph": "It's the website you're on right now! The desktop view is inspired by the fact that a lot of websites ignore the horizontal space offered by modern monitors and a desire to integrate navigation with the content of the site. The site is written with React.js and Tailwind. And uses Next.js to build the site for deployment on GitHub Pages via Actions. The actual content of the site is read from a JSON file and handled by a React Context component. The original design was created in Figma."
       },
       {
         "paragraph": "You can see the source code on GitHub here.",
@@ -158,7 +158,7 @@
         "alt": "E-shop project thumbnail"
       },
       {
-        "paragraph": "This is a site I made to train my vanilla JavaScript skills. The github version includes a Node.js backend for practising writing API endpoints, trying those endpoints to a MariaDB database and making API calls. The JavaScript frontend itself features modular code and object oriented programming."
+        "paragraph": "This is a site I made to train my vanilla JavaScript skills. The github version includes a Node.js backend for practising writing API endpoints, tying those endpoints to a MariaDB database and making API calls. The JavaScript frontend itself features modular code and object oriented programming."
       },
       {
         "paragraph": "The GitHub repository is here.",
