@@ -64,10 +64,18 @@
         "header3": "Fundamental Web Technologies"
       },
       {
+        "image": "/images/Web technologies.webp",
+        "alt": ""
+      },
+      {
         "paragraph": "I feel proficient in HTML, CSS and JavaScript. I know how to create a semantic HTML structure and replicate most designs in CSS. In JavaScript I can handle more complex subjects such as asynchronous functions and object oriented programming. I also know how to create websites with WordPress and know how to do some advanced customization with it, like editing themes."
       },
       {
         "header3": "Building Web Applications"
+      },
+      {
+        "image": "/images/React Next logos.webp",
+        "alt": ""
       },
       {
         "paragraph": "I know how to use React to build web applications and am also learning additional technologies like Next.js and React Native. I'm also curious about WebAssembly."
@@ -76,10 +84,18 @@
         "header3": "Backend Technologies"
       },
       {
+        "image": "/images/nodejs.webp",
+        "alt": ""
+      },
+      {
         "paragraph": "For the backend, I've learned to use Node.js and PHP, with the focus on Node.js. I know how to create API endpoints, create database connections and serve web pages from templates. The backend is the aspect of programming I'm most interested in and am looking forward to further expanding my skills in."
       },
       {
         "header3": "Databases"
+      },
+      {
+        "image": "/images/MariaDB logo.svg",
+        "alt": ""
       },
       {
         "paragraph": "I know how to use SQL databases like MySQL and MariaDB, including some more advanced features like creating procedures and views. I also know the fundamentals of using MongoDB and how to model database structures."
@@ -179,6 +195,12 @@
       {
         "paragraph": "You can visit the arcade here.",
         "link": "https://vs24ritsberg.ita.voco.ee/arcade/"
+      },
+      {
+        "header2": "Future projects"
+      },
+      {
+        "paragraph": "Currently I'm working on two team projects for clients. One is a WordPress site for a band and the other is a React app for a care home for disabled people that will help the caretakers manage the information and activity of their clients. These projects don’t just show my technical skills, but also my abilities at project management and teamwork. I hope to add concrete examples of my work here soon."
       }
     ]
   }
